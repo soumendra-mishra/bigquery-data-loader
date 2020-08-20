@@ -1,0 +1,6 @@
+{
+  "datasetName": "bq_poc",
+  "externalTableName": "ext_job_profile",
+  "targetTableName": "txn_job_profile",
+  "targetColumnList": "job_profile_id,job_title,job_category,job_level,last_update_ts"
+}

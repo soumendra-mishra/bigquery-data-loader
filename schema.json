@@ -1,0 +1,18 @@
+[
+  {
+    "name": "job_profile_id",
+    "type": "INTEGER"
+  },
+  {
+    "name": "job_title",
+    "type": "STRING"
+  },
+  {
+    "name": "job_category",
+    "type": "STRING"
+  },
+  {
+    "name": "job_level",
+    "type": "STRING"
+  }
+]

@@ -1,0 +1,2 @@
+google-cloud-bigquery>=1.24.0
+memory-profiler>=0.57.0
